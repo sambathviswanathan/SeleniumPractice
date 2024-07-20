@@ -1,2 +1,0 @@
-Sync done between vscode local and git hub.
-Now its in modify state.
